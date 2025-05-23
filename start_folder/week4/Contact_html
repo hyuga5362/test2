@@ -4,15 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>問い合わせ</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style2.css">
 </head>
 <body>
     <header>
         <h1>問い合わせホーム</h1>
         <nav>
             <ul>
-                <li><a href="Index_html">ホーム</a></li>
-                <li><a href="contact_html">問い合わせ</a></li>
+                <li><a href="index2_html">ホーム</a></li>
+                <li><a href="Contact_html">問い合わせ</a></li>
             </ul>
         </nav>
     </header>
