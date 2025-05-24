@@ -1,6 +1,5 @@
 const getTotalPrice = (price, quantity) => price * quantity;
 
-
 const addTax = total => total * 1.1;
 
 const total = getTotalPrice(1000, 2); // → 2000
